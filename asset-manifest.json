@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/suhail-portfolio/static/css/main.9ac2fc52.css",
-    "main.js": "/suhail-portfolio/static/js/main.33ba1752.js",
+    "main.js": "/suhail-portfolio/static/js/main.b7b3c175.js",
     "static/media/newsimage.jpg": "/suhail-portfolio/static/media/newsimage.bddad158f7cf9052ebcb.jpg",
     "static/media/jokeimage.png": "/suhail-portfolio/static/media/jokeimage.0ad0277c12b274b85ee4.png",
     "static/media/Avatar.png": "/suhail-portfolio/static/media/Avatar.fa312ccf8f85946c64d0.png",
     "static/media/Suhail Resume.pdf": "/suhail-portfolio/static/media/Suhail Resume.8d94e90185365bd33766.pdf",
     "index.html": "/suhail-portfolio/index.html",
     "main.9ac2fc52.css.map": "/suhail-portfolio/static/css/main.9ac2fc52.css.map",
-    "main.33ba1752.js.map": "/suhail-portfolio/static/js/main.33ba1752.js.map"
+    "main.b7b3c175.js.map": "/suhail-portfolio/static/js/main.b7b3c175.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac2fc52.css",
-    "static/js/main.33ba1752.js"
+    "static/js/main.b7b3c175.js"
   ]
 }
